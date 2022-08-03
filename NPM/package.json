@@ -1,0 +1,16 @@
+{
+  "name": "latihan3",
+  "version": "1.0.0",
+  "description": "Belajar NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tifani",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "validator": "^13.7.0"
+  }
+}
